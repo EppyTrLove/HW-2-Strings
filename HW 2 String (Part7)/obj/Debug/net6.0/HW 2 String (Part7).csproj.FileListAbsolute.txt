@@ -1,0 +1,15 @@
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\bin\Debug\net6.0\HW 2 String (Part7).exe
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\bin\Debug\net6.0\HW 2 String (Part7).deps.json
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\bin\Debug\net6.0\HW 2 String (Part7).runtimeconfig.json
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\bin\Debug\net6.0\HW 2 String (Part7).dll
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\bin\Debug\net6.0\HW 2 String (Part7).pdb
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\obj\Debug\net6.0\HW 2 String (Part7).csproj.AssemblyReference.cache
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\obj\Debug\net6.0\HW 2 String (Part7).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\obj\Debug\net6.0\HW 2 String (Part7).AssemblyInfoInputs.cache
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\obj\Debug\net6.0\HW 2 String (Part7).AssemblyInfo.cs
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\obj\Debug\net6.0\HW 2 String (Part7).csproj.CoreCompileInputs.cache
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\obj\Debug\net6.0\HW 2 String (Part7).dll
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\obj\Debug\net6.0\refint\HW 2 String (Part7).dll
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\obj\Debug\net6.0\HW 2 String (Part7).pdb
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\obj\Debug\net6.0\HW 2 String (Part7).genruntimeconfig.cache
+C:\Users\Никита Епифанцев\source\repos\HW 2\HW 2 String (Part7)\obj\Debug\net6.0\ref\HW 2 String (Part7).dll
